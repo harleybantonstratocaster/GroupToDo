@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927861716663",
+    "project_id": "grouptodo-e7508",
+    "storage_bucket": "grouptodo-e7508.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927861716663:android:7e9d24785bb87265087f32",
+        "android_client_info": {
+          "package_name": "com.jim.grouptodo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3URRBxGDR16ceHaJ7nQhpHlPErMYQTQE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
